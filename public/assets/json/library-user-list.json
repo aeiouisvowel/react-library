@@ -1,0 +1,22 @@
+[
+  {
+    "email": "aeiouisvowel@gmail.com",
+    "name": "ABHISHEK KUMAR",
+    "role": "user",
+    "profilePic": "https://lh4.googleusercontent.com/-Z-qHT4zSvz4/AAAAAAAAAAI/AAAAAAAAABM/X6z9HZsxy0M/photo.jpg",
+    "friends": ["abc@gmail.com","aloha@gmail.com"],
+    "recommends": [],
+    "booksInHand": [{"bookId": 1, "renewed": 0}],
+    "favCategories": ["Comedy","Mystery","Action"]
+  },
+  {
+    "email": "abhishek.kumar9214@gmail.com",
+    "name": "ABHISHEK KUMAR",
+    "role": "admin",
+    "profilePic": "https://lh4.googleusercontent.com/-Z-qHT4zSvz4/AAAAAAAAAAI/AAAAAAAAABM/X6z9HZsxy0M/photo.jpg",
+    "friends": ["aeiouisvowel@gmail.com","aloha@gmail.com"],
+    "recommends": [],
+    "booksInHand": [],
+    "favCategories": ["Comedy","Mystery","Action"]
+  }
+]

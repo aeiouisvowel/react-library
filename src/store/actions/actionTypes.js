@@ -1,0 +1,26 @@
+export const SIGN_IN_SAGA = 'SIGN_IN_SAGA';
+export const SIGN_IN = 'SIGN_IN';
+
+export const SIGN_OUT_SAGA = 'SIGN_OUT_SAGA';
+export const SIGN_OUT = 'SIGN_OUT';
+
+export const LOAD_LIBRARY_SAGA = 'LOAD_LIBRARY_SAGA';
+export const LOAD_LIBRARY = 'LOAD_LIBRARY';
+
+export const ADD_FRIEND = 'ADD_FRIEND';
+export const ADD_FRIEND_SAGA = 'ADD_FRIEND_SAGA';
+
+export const DELETE_FRIEND = 'DELETE_FRIEND';
+export const DELETE_FRIEND_SAGA = 'DELETE_FRIEND_SAGA';
+
+export const ADD_CATEGORY = 'ADD_CATEGORY';
+export const ADD_CATEGORY_SAGA = 'ADD_CATEGORY_SAGA';
+
+export const DELETE_CATEGORY = 'DELETE_CATEGORY';
+export const DELETE_CATEGORY_SAGA = 'DELETE_CATEGORY_SAGA';
+
+export const UPDATE_USER = 'UPDATE_USER';
+export const UPDATE_USER_SAGA = 'UPDATE_USER_SAGA';
+
+export const UPDATE_LIBRARY = 'UPDATE_LIBRARY';
+export const UPDATE_LIBRARY_SAGA = 'UPDATE_LIBRARY_SAGA';

@@ -1,0 +1,75 @@
+.userProfile {
+  text-align: left;
+  margin-top: 15px;
+
+  .MuiIcon-root-70 {
+    margin-bottom: -4px !important;
+  }
+
+  .profile-category {
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background-color: rgba(200, 200, 200, 1);
+    padding: 10px 0 10px 15px;
+  }
+
+  .profile-pic {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+  }
+
+  .profile-header {
+    padding-left: 10px;
+    text-align: left;
+  }
+
+  .username {
+    font-size: 24px;
+    color: #673ab7;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 60px;
+    margin: 0;
+  }
+
+  mat-toolbar {
+    font-size: 1.1em;
+    margin: 0;
+    height: 40px;
+    margin-top: 20px;
+  }
+
+  .label {
+    display: inline-block;
+    width: 95%;
+  }
+
+  .edit {
+    cursor: pointer;
+  }
+
+  .delete {
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 15px;
+  }
+
+  button {
+    margin-left: 15px !important;
+    margin-top: 18px !important;
+    padding: 4px 15px !important;
+    min-width: 100px !important;
+  }
+
+  .emptyBox {
+    width: 100%;
+  }
+
+  .MuiFormControl-root-86 {
+    margin-top: 15px !important;
+  }
+}

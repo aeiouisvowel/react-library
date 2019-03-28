@@ -1,0 +1,42 @@
+form {
+  max-width: 600px;
+  margin: 25px auto;
+
+  .row {
+    margin: 5px auto;
+  }
+
+  label {
+    width: 25%;
+    text-align: left;
+  }
+}
+
+input,
+textarea {
+  width: 70%;
+  text-align: left;
+  border-style: none;
+  border: 1px solid darkgray;
+  border-radius: 4px;
+}
+
+.isbnSearch {
+  max-width: 600px;
+  margin: auto;
+  margin-top: 25px;
+
+  button {
+    width: 22%;
+  }
+}
+
+.error-msg {
+  color: red;
+}
+
+.error-Id {
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+}

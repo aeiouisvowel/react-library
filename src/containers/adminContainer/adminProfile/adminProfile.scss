@@ -1,0 +1,46 @@
+.admin-profile {
+    margin-top: 15px;
+}
+
+.profile-pic {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.profile-header {
+  padding-left: 10px;
+  text-align: left;
+}
+
+.username {
+  font-size: 24px;
+  color: #673ab7;
+}
+
+.action {
+  width: 50%;
+  padding: 60px 15px;
+  text-align: center;
+
+  button {
+      width: 200px;
+  }
+}
+
+.action:first-child {
+  border-right: 2px solid black;
+}
+
+.actions {
+  margin-top: 50px;
+}
+
+
+@media only screen and (max-width : 600px) {
+  .action {  
+    button {
+        width: 120px;
+    }
+  }
+}

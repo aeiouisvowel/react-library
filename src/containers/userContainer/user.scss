@@ -1,0 +1,34 @@
+nav {
+    background-color: rgba(200, 200, 200, 0.5);
+}
+
+.navItems, .logout {
+    width: 50%;
+    padding: 5px 20px 0 20px;
+    display: inline-block;
+}
+
+.navItems {
+    text-align: left;
+
+    ul {
+        list-style-type: none;
+        margin-bottom: 10px;
+
+        li {
+            display: inline-block;
+            padding: 0 10px;
+        }
+    }
+}
+
+.logout {
+    text-align: right;
+    font-size: 24px;
+
+    .MuiIcon-root-70 {
+        font-size: 20px;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+}

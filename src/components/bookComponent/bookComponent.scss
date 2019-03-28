@@ -1,0 +1,93 @@
+.bookComponent {
+  text-align: left;
+  margin-top: 15px;
+
+  .book {
+    width: 100%;
+  }
+
+  button:focus {
+    outline: none !important;
+  }
+
+  .MuiExpansionPanelDetails-root-117 > div, .MuiExpansionPanelDetails-root-313 > div {
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+  }
+
+  .MuiPaper-elevation4-16 {
+    box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2);
+  }
+
+  .row {
+    margin: 5px;
+  }
+
+  .col-md-7,
+  .col-md-2,
+  .col-md-3,
+  .col-md-4,
+  .col-lg-5 {
+    padding: 0;
+    display: inline-block;
+  }
+
+  .col-md-4 {
+    text-align: center;
+  }
+
+  .ExpansionPanel {
+    padding: 4px 4px 0;
+  }
+
+  .submitBtn {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px !important;
+  }
+
+  .selectRate {
+    display: block;
+  }
+
+  label + .MuiInput-formControl-238 {
+    margin-top: 16px;
+    width: 100px;
+  }
+
+  .col-md-4 button {
+    margin: 16px 20px 0;
+  }
+
+  .container {
+    padding: 0px;
+  }
+
+  textarea {
+    width: 98%;
+    margin-top: 5px;
+  }
+
+  .thumbnail {
+    height: 60px;
+    width: 60px;
+  }
+
+  .book-header {
+    padding-left: 10px;
+    text-align: left;
+  }
+
+  .book-title {
+    font-size: 24px;
+  }
+
+  .label,
+  .value {
+    display: inline-block;
+  }
+
+  button {
+    margin: auto 10px;
+  }
+}

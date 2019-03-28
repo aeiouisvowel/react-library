@@ -1,0 +1,134 @@
+[
+  {
+    "bookId": 1,
+    "isbn13": "9780980200447",
+    "isbn10": "1234567890",
+    "title": "Slow reading",
+    "author": "John Miedema",
+    "genre": "Fiction",
+    "thumbnail": "https://covers.openlibrary.org/b/id/5546156-S.jpg",
+    "description": "Slow Reading examines the research in voluntary slow reading, from the earliest references in religion and philosophy, to the practice of close reading in the humanities, and the recent swell of interest associated with the Slow Movement.",
+    "location": "4th Floor, 2nd Row",
+    "availability": {
+      "availableBy": "10/1/2018",
+      "issuedTo": "aeiouisvowel@gmail.com",
+      "issuedDate": "9/17/2018"
+    },
+    "avgRating": {
+      "rating": 0,
+      "givenBy": 0
+    },
+    "reviews": [
+    ]
+  },
+  {
+    "bookId": 2,
+    "isbn13": "9780980200447",
+    "isbn10": "1234567890",
+    "title": "Slow reading",
+    "author": "John Miedema",
+    "genre": "Fiction",
+    "thumbnail": "https://covers.openlibrary.org/b/id/5546156-S.jpg",
+    "description": "Slow Reading examines the research in voluntary slow reading, from the earliest references in religion and philosophy, to the practice of close reading in the humanities, and the recent swell of interest associated with the Slow Movement.",
+    "location": "4th Floor, 2nd Row",
+    "availability": {
+      "availableBy": "Available",
+      "issuedTo": "",
+      "issuedDate": ""
+    },
+    "avgRating": {
+      "rating": 0,
+      "givenBy": 0
+    },
+    "reviews": [
+    ]
+  },
+  {
+    "bookId": 4,
+    "isbn13": "9781405282758",
+    "isbn10": "1405282754",
+    "title": "The Adventures of Tintin Volume 1",
+    "author": "Herge",
+    "genre": "Adventure",
+    "thumbnail": "http://books.google.com/books/content?id=FZMUswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "Join the world's most famous travelling reporter in his exciting adventures as he travels behind the Iron Curtain in Tintin in the Land of the Soviets, and tangles with Al Capone in Tintin in America.",
+    "location": "4th Floor, 4th Row",
+    "availability": {
+      "availableBy": "Available",
+      "issuedTo": "",
+      "issuedDate": ""
+    },
+    "avgRating": {
+      "rating": 0,
+      "givenBy": 0
+    },
+    "reviews": [
+    ]
+  },
+  {
+    "bookId": 6,
+    "isbn13": "9781444707861",
+    "isbn10": "1444707868",
+    "title": "It",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "thumbnail": "http://books.google.com/books/content?id=wvc6YgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A thriller about a malevolent force in a small New England town that takes the shape of a clown, terrifying youngsters with their innermost fears and bringing them to untimely doom.",
+    "location": "4th Floor, 4th Row",
+    "availability": {
+      "availableBy": "Available",
+      "issuedTo": "",
+      "issuedDate": ""
+    },
+    "avgRating": {
+      "rating": 0,
+      "givenBy": 0
+    },
+    "reviews": [
+    ]
+  },
+  {
+    "bookId": 7,
+    "isbn13": "9780552169592",
+    "isbn10": "0552169595",
+    "title": "Inferno",
+    "author": "Dan Brown",
+    "genre": "Fiction",
+    "thumbnail": "http://books.google.com/books/content?id=-NtsAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "Robert Langdon wakes up in a Florence hospital with no clue how he got there. Another attack on his life makes it very clear - someone wants him dead. And fast. To survive, Langdon must work out who it is. And then he must answer the next question - why?",
+    "location": "4th Floor, 3rd Row",
+    "availability": {
+      "availableBy": "Available",
+      "issuedTo": "",
+      "issuedDate": ""
+    },
+    "avgRating": {
+      "rating": 0,
+      "givenBy": 0
+    },
+    "reviews": [
+    ]
+  },
+  {
+    "bookId": 8,
+    "isbn13": "9780545010221",
+    "isbn10": "0545010225",
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J. K. Rowling",
+    "genre": "Fiction",
+    "thumbnail": "http://books.google.com/books/content?id=JHEkAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "The magnificent final book in J. K. Rowling's seven-part saga comes to readers July 21, 2007.",
+    "location": "4th Floor, 6th Row",
+    "availability": {
+      "availableBy": "Available",
+      "issuedTo": "",
+      "issuedDate": ""
+    },
+    "avgRating": {
+      "rating": 0,
+      "givenBy": 0
+    },
+    "reviews": [
+    ]
+  }
+]
